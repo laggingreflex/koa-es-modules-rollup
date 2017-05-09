@@ -1,0 +1,17 @@
+{
+  "name": "koa-es-modules-rollup-example",
+  "version": "0.0.0",
+  "description": "Koa middleware to serve ES6 Modules using Rollup bundler",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server"
+  },
+  "dependencies": {
+    "koa": "^2.2.0",
+    "koa-es-modules-rollup": "..",
+    "preact": "^8.1.0",
+    "preact-hyperscript": "^0.7.1",
+    "preact-hyperscript-h": "^0.1.1",
+    "preact-render-to-string": "^3.6.1"
+  }
+}

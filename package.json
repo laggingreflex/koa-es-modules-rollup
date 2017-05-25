@@ -1,6 +1,6 @@
 {
   "name": "koa-es-modules-rollup",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Koa middleware to serve ES6 Modules using Rollup bundler",
   "main": "index.js",
   "repository": "laggingreflex/koa-es-modules-rollup",

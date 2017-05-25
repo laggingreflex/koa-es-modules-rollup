@@ -2,7 +2,7 @@ const Path = require('path');
 const { rollup } = require('rollup');
 const commonjs = require('rollup-plugin-commonjs');
 const resolve = require('rollup-plugin-node-resolve');
-const debug = require('debug')('koa-rollup');
+const debug = require('debug')('koa-es-modules-rollup');
 
 const mandate = reason => { throw new Error(reason) }
 
